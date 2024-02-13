@@ -3,6 +3,7 @@
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
+![image](https://github.com/markcir/wsb-nuxt/assets/46850314/ad0238bf-720f-4881-b496-3b59c0985400)
 
 Make sure to install the dependencies:
 
