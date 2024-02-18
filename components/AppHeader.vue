@@ -7,6 +7,7 @@
         <li><nuxt-link to="/">Home</nuxt-link></li>
         <li><nuxt-link to="Termins">Terminy</nuxt-link></li>
         <li><nuxt-link to="About">O nas</nuxt-link></li>
+        <li><nuxt-link to="AppAPI">API(CoinGecko)</nuxt-link></li>
         
         <li style="margin-left: auto;"><nuxt-link to="Auth">Logowanie/Rejestracja</nuxt-link></li>
         
